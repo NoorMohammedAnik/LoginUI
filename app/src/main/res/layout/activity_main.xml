@@ -64,7 +64,7 @@
         <Button
             android:paddingRight="20dp"
             android:paddingLeft="20dp"
-            android:background="@drawable/round_corner_button"
+            android:background="@drawable/rounded_corner_button"
             android:text="sign in"
             android:textColor="#777"
             android:layout_width="wrap_content"
